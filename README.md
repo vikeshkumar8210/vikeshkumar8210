@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on C
+- 🔭 I’m currently working on python
 - 🌱 I’m currently learning c,c++
 - 👯 I’m looking to collaborate on youtube channel
 - 🤔 I’m looking for help with ...

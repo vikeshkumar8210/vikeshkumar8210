@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vikeshk88922105" target="blank"><img src="https://img.shields.io/twitter/follow/vikeshk88922105?logo=twitter&style=for-the-badge" alt="vikeshk88922105" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Development tools**
+- 🌱 I’m currently learning **Java, Development tools**
 
 - 🤝 I’m looking for help with **DevOps and Cloud Computing**
 

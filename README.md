@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Development tools**
 
-- 🤝 I’m looking for help with **DevOps and Cloud Computing**
+- 🤝 I’m looking for help with **DevOps and Cloud**
 
 - 📫 How to reach me **vikeshkr2ins@gmail.com**
 

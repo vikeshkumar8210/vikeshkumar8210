@@ -1,5 +1,5 @@
  ![logo](https://github.com/vikeshkumar8210/vikeshkumar8210/blob/main/Github%20Banner2.png)
-<h1 align="center">Hi 👋, I'm Vikesh Kumar</h1>
+<h1 align="center">Hi , I'm Vikesh Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vikeshk88922105" target="blank"><img src="https://img.shields.io/twitter/follow/vikeshk88922105?logo=twitter&style=for-the-badge" alt="vikeshk88922105" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Development tools**
+-  I’m currently learning **Java, Development tools**
 
-- 🤝 I’m looking for help with **DevOps and Cloud**
+-  I’m looking for help with **DevOps and Cloud**
 
-- 📫 How to reach me **vikeshkr2ins@gmail.com**
+-  How to reach me **vikeshkr2ins@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
